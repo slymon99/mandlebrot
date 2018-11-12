@@ -1,0 +1,4 @@
+[[package]]
+name = "mandlebrot"
+version = "0.1.0"
+
